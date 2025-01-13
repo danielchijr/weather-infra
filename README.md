@@ -6,7 +6,7 @@
 
 ### Description
 
-This repository builds up a weather app within an eks cluster with argocd used for deployment. The build time can take 15 to 30 minutes for the resources to be spun up.
+This repository builds up a weather app within an EKS cluster with ArgoCD used for deployment. The build time can take 15 to 30 minutes for the resources to be spun up.
 
 ---
 
@@ -15,7 +15,7 @@ This repository builds up a weather app within an eks cluster with argocd used f
 | Dependency | Version |
 | ---------- | ------- |
 | Terraform  | v1.5.5  |
-| AWS-CLi    | 2.13.9  |
+| AWS-CLI    | 2.13.9  |
 | Python     | 3.11.4  |
 | Kubectl    |         |
 | Argocd CLI |         |
